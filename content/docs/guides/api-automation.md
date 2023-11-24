@@ -1,6 +1,6 @@
 ---
 title: API Automation
-subtitle: RestAssured, Karate and more
+subtitle: RestAssured and more
 polyglot:
   - java
   - javascript
